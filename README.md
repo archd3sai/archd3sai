@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Arch and I am passionate about Data Science and Analytics. I have a Master’s in Industrial Engineering from Texas A&M University and a Bachelor's in Mechanical Engineering.  
+I am Arch and I am passionate about Data Science and Analytics. I have a Master’s in Industrial Engineering from Texas A&M University and a Bachelor's in Mechanical Engineering from NIT Surat.  
 
 I have worked in various applications of data science such as customer analytics, churn prediction, survival analysis, recommendation systems, market basket analysis, predictive maintenance, etc. Please check out my [Portfolio](https://github.com/archd3sai/Portfolio) for all of my projects, micro-projects, skills, certificates, and achievements. 
 
