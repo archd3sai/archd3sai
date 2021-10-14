@@ -2,7 +2,7 @@
 
 I am Arch and I am passionate about Data Science and Analytics. I have a Master’s in Industrial Engineering from Texas A&M University and a Bachelor's in Mechanical Engineering from NIT Surat. Check out my [Portfolio](https://github.com/archd3sai/Portfolio) for all of my projects, micro-projects, skills, certificates, and achievements. 
 
-I am currently located in San Francisco Bay Area, CA, and in my free time, I like to scroll (Anything :p), read, hike, travel, and explore different music genres over a cup of tea (In no perticular order).      
+I am currently working as a Data Scientist and located in San Francisco Bay Area, CA. In my free time, I like to scroll (Anything :p), read, hike, travel, and explore different music genres over a cup of tea (In no perticular order).      
 
 <!--
 **archd3sai/archd3sai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
